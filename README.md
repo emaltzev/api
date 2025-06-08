@@ -7,3 +7,4 @@
 
   [Публичная коллекция Postman ля тестирования SOAP-сервиса CountryInfoService](https://www.postman.com/speeding-eclipse-130792/workspace/postman-2-0/collection/41481933-8949be58-604f-45ea-8585-0a067d3a375d?action=share&creator=41481933).
  
+[Результаты экспресс-прогона тестов ](https://github.com/user-attachments/files/20646719/G10-Express%2Brun%2B2025_06_08.1._removed.pdf)
